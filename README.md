@@ -1,1 +1,3 @@
 # World-Cup-Azure-Data-Engineering-Project
+
+The project entails a comprehensive exploration of data management and analytics, from the initial stages of local database handling to the advanced processing capabilities of SQL Server. We delve into the seamless transition of data through cloud storage, specifically Blob Storage orchestrated by Data Factory. Witness firsthand how raw data is transformed into actionable insights within Databricks Analytics. Through this project, we showcase the intricacies of data orchestration, connecting disparate data sources to enable advanced analytics and decision-making.
